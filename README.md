@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prvmalviya)
 [![Email](https://img.shields.io/badge/Email-19253D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pravinpanwar@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-793FC6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/praveen.jsx)
+[![Instagram](https://img.shields.io/badge/Instagram-793FC6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pravinmalviya202)
 
 </div>
 
@@ -72,11 +72,14 @@ I care more about **reliable systems and real outcomes** than impressive-looking
 
 <div align="center">
 
-<img alt="GitHub top languages based on public repository data" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pravinpanwar&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=9AABFF&text_color=C9D1D9" />
+**Explore my code, contributions, and engineering work.**
+
+[![GitHub Profile](https://img.shields.io/badge/Explore_GitHub_Profile-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pravinpanwar)
+[![Repositories](https://img.shields.io/badge/View_Repositories-273B68?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pravinpanwar?tab=repositories)
 
 </div>
 
-<sub>Language charts describe repository contents, not skill levels. Third-party images may occasionally be unavailable.</sub>
+> GitHub displays my contribution activity directly on my profile. I keep this section free of third-party stats widgets that may fail or show misleading metrics for private work.
 
 ---
 
